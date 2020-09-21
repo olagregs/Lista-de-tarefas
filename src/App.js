@@ -1,11 +1,18 @@
 import React from 'react';
-import logo from './logo.svg';
+
 import './App.css';
+import Form from './components/form';
+import TodoList from './components/todoList';
 
 function App() {
   return (
     <div className="App">
-      <h1>Hello, react</h1>
+      <header>
+        <h1>Lista de Tarefas</h1>
+      </header>
+
+      <Form />
+      <TodoList />
     </div>
   );
 }
