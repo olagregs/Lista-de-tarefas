@@ -1,68 +1,70 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1 align="center">Todo List<h1>
 
-## Available Scripts
+## Descrição ✍️
+<p>
+  App desenvolvido com reactjs para fazer uma lista de tarefas. Utilizando os filtros podemos separar as tarefas completas das incompletas, que quando criadas, são salvas usando local storage.
+</p>
+&nbsp;
 
-In the project directory, you can run:
+<p align="center">
+  <img src="./public/screens/screen1.JPG">
+  <img src="./public/screens/screen2.JPG">
+  <img src="./public/screens/screen3.JPG">
+  <img src="./public/screens/screen4.JPG">
+  <img src="./public/screens/screen5.JPG">
+  <img src="./public/screens/screen6.JPG">
+</p>
 
-### `yarn start`
+<p align="center">
+ <a href="#tecnologias">Tecnologias</a> •
+ <a href="#features">Features</a> •
+ <a href="#run">Run</a> •
+ <a href="#autor">Autor</a>
+</p>
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+&nbsp;
+## Tecnologias 👩‍💻
+<p id="tecnologias">
+ 
+ - HTML
+ &nbsp;
+ - CSS
+ &nbsp;
+ - JS
+ &nbsp;
+ - ReactJS
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+&nbsp;
+## Features 🆕
+<p id="features">
+  ✅ Filtro entre as tarefas
+  &nbsp;
+</p>
 
-### `yarn test`
+&nbsp;
+## Run 🏁
+<p id="run">
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+  1º Para rodar o projeto é necessário instalar todas as dependências, e para isso basta executar o comando `npm install`.
+  &nbsp;
 
-### `yarn build`
+  2º Afim de iniciar o servidor, após instalar as depencências, execute o comando `yarn start` no terminal.
+  &nbsp;
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+  3º Após isso, no seu navegador, abra o endereço `http://localhost:3000/` para vizualizar o prjeto.
+</p>
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+&nbsp;
+## Autor
+<a style="text-decoration: none;" href="https://github.com/olagregs">
+  <img width="100px" style="border-radius: 50%;"src="https://avatars1.githubusercontent.com/u/69690037?s=460&u=27ec559b232470dbaaaff89fcb7768e5ff950bfe&v=4" alt="Gregory Ferreira">
+  <p>Gregory Ferreira 💻</p>
+</a>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+[![Linkedin Badge](https://img.shields.io/badge/-Gregory-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gregory-lucena-2450751b4/)](https://www.linkedin.com/in/gregory-lucena/)
+[![Gmail Badge](https://img.shields.io/badge/-gregoryflucena@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gregoryflucena@gmail.com)](mailto:gregoryflucena@gmail.com)
+![GitHub](https://img.shields.io/github/license/olagregs/themes?style=flat-square)
 
-### `yarn eject`
+<p>Made with ❤️ and ☕ by me 😁</p>
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+&nbsp;
